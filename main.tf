@@ -8,3 +8,5 @@ resource "aws_instance" "instancefromterraform" {
   instance_type  =  "t2.micro"
 
 }
+~
+
